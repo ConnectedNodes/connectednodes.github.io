@@ -1,0 +1,10 @@
+h1{
+    color: white;
+}
+#aboutUs-image{
+    min-height: 200px;
+    min-width: 300px;
+}
+#aboutUs-para{
+    color: white;
+}
